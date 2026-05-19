@@ -1,4 +1,4 @@
-$${\color{white}\colorbox{#FFE4E6}{\text{Yoonjin's Porfolio}}}$$
+# [![Yoonjin Portfolio](https://img.shields.io/badge/Yoonjin's-Portfolio-FFB6C1?style=for-the-badge&labelColor=333333)](https://github.com)
 
 > HTML Table 태그를 활용한 다양한 웹 레이아웃 및 데이터 구성 실습 프로젝트
 
