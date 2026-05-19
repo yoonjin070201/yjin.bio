@@ -1,4 +1,10 @@
-# [![Yoonjin Portfolio](https://img.shields.io/badge/Yoonjin's-Portfolio-FFB6C1?style=for-the-badge&labelColor=333333)](https://github.com)
+<table align="center" width="100%">
+  <tr bgcolor="#FFF0F2">
+    <td align="center" style="padding: 24px 0; border: none;">
+      <h1><font color="#4A4A4A">Yoonjin's Portfolio</font></h1>
+    </td>
+  </tr>
+</table>
 
 > HTML Table 태그를 활용한 다양한 웹 레이아웃 및 데이터 구성 실습 프로젝트
 
