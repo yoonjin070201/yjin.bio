@@ -1,4 +1,4 @@
-# HTML TABLE PROJECT
+<h1><span style="background-color: #FFE4E6; color: #E11D48; padding: 4px 8px;">Yoonjin's Portfolio</span></h1>
 
 > HTML Table 태그를 활용한 다양한 웹 레이아웃 및 데이터 구성 실습 프로젝트
 
