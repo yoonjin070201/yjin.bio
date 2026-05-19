@@ -4,7 +4,7 @@
 
 <br>
 
-## Preview
+## 미리보기
 
 | 메인 화면 | 테이블 예시 |
 |---|---|
@@ -12,7 +12,7 @@
 
 ---
 
-# About Project
+# 프로젝트 소개
 
 이 프로젝트는 HTML의 `<table>` 태그를 활용하여  
 다양한 형태의 데이터 레이아웃을 제작하고 구조를 이해하기 위해 진행한 실습 프로젝트입니다.
@@ -30,7 +30,7 @@
 
 <br>
 
-# Tech Stack
+# 기술 스택
 
 | Category | Skills |
 |---|---|
@@ -41,7 +41,7 @@
 
 ---
 
-# Folder Structure
+# 폴더 구조
 
 ```bash
 📦 html.table2
@@ -59,7 +59,7 @@
 
 ---
 
-# Main Pages
+# 주요 페이지
 
 ## 1. Animal Table
 
@@ -127,7 +127,7 @@
 
 ---
 
-# What I Learned
+# 프로젝트를 통해 배운 점
 
 이번 프로젝트를 통해 다음 내용을 학습했습니다.
 
@@ -140,7 +140,7 @@
 
 ---
 
-# Project Goal
+# 프로젝트 목표
 
 단순한 HTML 태그 사용을 넘어  
 실제 데이터를 보기 쉽게 구조화하는 방법을 학습하는 것을 목표로 했습니다.
@@ -150,7 +150,7 @@
 
 ---
 
-# Author
+# 제작자
 
 | Name | Role |
 |---|---|
@@ -158,7 +158,7 @@
 
 ---
 
-# GitHub
+# 깃허브 링크
 
 🔗 Repository Link  
 https://github.com/yoonjin070201/html.table2
