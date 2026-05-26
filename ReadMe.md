@@ -1,11 +1,9 @@
 <div align="center">
 
-<table>
-<tr>
-<td align="center" bgcolor="#FFB6C1" style="padding:20px 50px; border-radius:20px;">
 
-<h1 align="center">
-YOONJIN'S PORTFOLIO
+
+<h1>
+YOONJIN'S PORTFOLIO🌷
 </h1>
 
 </td>
@@ -14,10 +12,21 @@ YOONJIN'S PORTFOLIO
 
 </div>
 
-> HTML Table 태그를 활용한 다양한 웹 레이아웃 및 데이터 구성 실습 프로젝트
+
 
 <br>
 
+## 🎨ABOUT ME!
+
+안녕하세요.
+사용자 경험과 직관적인 디자인을 중요하게 생각하는 포트폴리오입니다.
+
+단순히 코드를 짜는 것에 그치지 않고, 화면을 마주하는 사용자의 흐름과 콘텐츠가 명확하게 전달되는 구조를 함께 고민합니다.<br>
+특히 UI/UX 디자인과 콘텐츠 디자인 영역에 관심을 두고 공부하고 있으며, 기획한 내용이<br> 웹 화면에 직관적이고 깔끔하게 담기도록 구현하는 것에 집중하고 있습니다.
+<br>
+<br>
+<br>
+3
 ## 미리보기
 
 | 메인 화면 | 테이블 예시 |
