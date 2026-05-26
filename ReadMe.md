@@ -1,10 +1,26 @@
-<table align="center" width="100%">
-  <tr bgcolor="#FFF0F2">
-    <td align="center" style="padding: 24px 0; border: none;">
-      <h1><font color="#4A4A4A">Yoonjin's Portfolio</font></h1>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<div style="
+display:inline-block;
+padding:18px 40px;
+background-color:#FFB6C1;
+border-radius:18px;
+">
+
+<h1 style="
+margin:0;
+color:white;
+font-size:42px;
+font-weight:800;
+letter-spacing:2px;
+font-family:sans-serif;
+">
+YOONJIN'S PORTFOLIO
+</h1>
+
+</div>
+
+</div>
 
 > HTML Table 태그를 활용한 다양한 웹 레이아웃 및 데이터 구성 실습 프로젝트
 
