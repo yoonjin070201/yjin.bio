@@ -1,24 +1,16 @@
 <div align="center">
 
-<div style="
-display:inline-block;
-padding:18px 40px;
-background-color:#FFB6C1;
-border-radius:18px;
-">
+<table>
+<tr>
+<td align="center" bgcolor="#FFB6C1" style="padding:20px 50px; border-radius:20px;">
 
-<h1 style="
-margin:0;
-color:white;
-font-size:42px;
-font-weight:800;
-letter-spacing:2px;
-font-family:sans-serif;
-">
+<h1 align="center">
 YOONJIN'S PORTFOLIO
 </h1>
 
-</div>
+</td>
+</tr>
+</table>
 
 </div>
 
